@@ -1,5 +1,1 @@
-# HTML-and-CSS-for-a-Responsive-Navigation-Menu-
-HTML and CSS for a Responsive Navigation Menu
-document.getElementById('myButton').addEventListener('click', function() {
-    document.getElementById('myDiv').innerHTML = 'Button Clicked!';
-});
+2024-01-05
